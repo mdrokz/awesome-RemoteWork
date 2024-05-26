@@ -83,6 +83,7 @@ Awesome Remote Work
 - [https://europeanremote.com](https://europeanremote.com) - selected European tech opportunities every week in your inbox
 - [https://okjob.io](https://www.okjob.io) - 4 day week job board
 - [https://torre.ai](https://torre.ai) - AI based recruiting process
+- [https://androiddev.careers](https://androiddev.careers) - Job board for Android Developers
 
 ## Software
 - [Work From Home List](https://wfhlist.io) An Open List of Work From Home Software & Hardware tools.
